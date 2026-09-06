@@ -11,6 +11,7 @@
 | [03-benchmark.md](docs/03-benchmark.md) | 벤치마크 사례 및 2026 알고리즘 대응 |
 | [04-account-setup.md](docs/04-account-setup.md) | 계정 개설·설정 체크리스트 |
 | [05-characters.md](docs/05-characters.md) | 6인 캐릭터 바이블 (무대·소재 엔진·절대 규칙) |
+| [06-differentiation.md](docs/06-differentiation.md) | **차별화 전략 — 시작 전 결정할 것들** |
 
 ## 한 줄 요약
 
