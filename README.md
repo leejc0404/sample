@@ -2,6 +2,14 @@
 
 팀 6인이 운영하는 단순 선그림 일상툰 인스타그램 계정 기획 저장소.
 
+## 아티팩트 (팀 공유용)
+
+| | |
+|---|---|
+| 문서 허브 (전 문서) | https://claude.ai/code/artifact/114839cc-3822-4406-98be-addcd2e01dff |
+| 시놉 뱅크 (68편, 상태 공유) | https://claude.ai/code/artifact/a7de07e7-bd0e-4c58-a76b-31f699e95910 |
+| 오늘 킥오프 시트 (입력) | https://claude.ai/code/artifact/fbf7da56-e2a4-40ed-83d7-7b5b8459ebf7 |
+
 ## 문서
 
 | 문서 | 내용 |
