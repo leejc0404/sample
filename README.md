@@ -12,6 +12,8 @@
 | [04-account-setup.md](docs/04-account-setup.md) | 계정 개설·설정 체크리스트 |
 | [05-characters.md](docs/05-characters.md) | 6인 캐릭터 바이블 (무대·소재 엔진·절대 규칙) |
 | [06-differentiation.md](docs/06-differentiation.md) | **팬덤 전략 — 리센느식 자연스러움, 회사 미노출** |
+| [07-launch-day.md](docs/07-launch-day.md) | **개설 런북 — 오늘 할 것, 첫 주 일정, EP.02·03 콘티** |
+| [synopsis-list.md](docs/synopsis-list.md) | 한 줄 시놉 68편 전문 (붙여넣기용) |
 
 ## 한 줄 요약
 
