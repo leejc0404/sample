@@ -14,6 +14,7 @@
 
 | 문서 | 내용 |
 |---|---|
+| [00-overview.md](docs/00-overview.md) | **한눈에 — 3분 설명** |
 | [01-instagram-plan.md](docs/01-instagram-plan.md) | 운영 기획안 전문 (컨셉·필러·캐릭터·로드맵·KPI) |
 | [02-ep01-haeju-naengmyeon.md](docs/02-ep01-haeju-naengmyeon.md) | 첫 콘텐츠 「여름이었다」 콘티·캡션 전문 |
 | [03-benchmark.md](docs/03-benchmark.md) | 벤치마크 사례 및 2026 알고리즘 대응 |
